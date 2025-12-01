@@ -1,5 +1,5 @@
 # 🚀 Project Overview
-![Image]
+![Image](https://github.com/sainanthan/Customer_Segmentation-/blob/main/Customer-Segmentation.png)
 
 This project analyzes customer shopping behavior using SQL, Power BI, and Python-based clustering.
 We explored purchase patterns, discount usage, revenue trends, and demographic insights to generate data-driven marketing strategies for the business.
@@ -182,20 +182,24 @@ FROM shopping_table;
 - Identified categories with low average purchase value and high promo responsiveness.
 - Suggested targeted discount strategies to boost underperforming categories.
 - Highlighted profitable categories where discounts can be minimized.
-![Image]
+ 
+![Image](https://github.com/sainanthan/Customer_Segmentation-/blob/main/Pg-1.png)
+
 
 **🔹 Part B — Age, Season & Location Insights**
 - Card spending varies significantly across age groups.
 - Seasonal spending trends reveal peak revenue periods.
 - Location analysis identifies high-performing regions for targeted campaigns.
-![Image]
+ 
+![Image](https://github.com/sainanthan/Customer_Segmentation-/blob/main/Pg-2.png)
 
 **🔹 Part C — Customer Segmentation (K-Means) Grouped customers into 3 distinct clusters:**
 - Deal Seekers — Highly price-sensitive, depend on offers
 - Full Price Buyers — Consistent spenders, low offer dependency
 - Loyal Subscribers — High engagement, repeat buyers
 - Generated personalized marketing strategies for each cluster.
-![Image]
+ 
+![Image](https://github.com/sainanthan/Customer_Segmentation-/blob/main/Pg-3.png)
 ---
 
 # 🎯 Final Strategic Recommendations
